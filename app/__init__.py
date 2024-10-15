@@ -21,11 +21,16 @@ class App:
                         continue
 
     def start(self):
-        self.load_plugins()
-        while True:
-            command = input(">>> ").strip().lower()
-            if command == 'exit':
-                print("Goodbye!")
-                break
-            else:
-                self.command_handler.execute_command(command)
+       self.load_plugins()
+       while True:
+           input_line = input(">>> ").strip()
+           if not input_line:
+               continue
+           parts = input_line.split()
+           command_name = parts[0].lower()
+           args = parts[1:]
+           if command_name == 'exit':
+               print("Goodbye!")
+               break
+           else:
+               self.command_handler.execute_command(command_name, args)
