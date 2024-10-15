@@ -21,8 +21,7 @@ class App:
                         continue
 
     def start(self):
-        self.load_plugins()        
-        print("Type 'exit' to quit.")
+        self.load_plugins()
         while True:
             command = input(">>> ").strip().lower()
             if command == 'exit':
