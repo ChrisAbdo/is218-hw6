@@ -19,11 +19,14 @@ class App:
                             self.command_handler.register_command(plugin_name, item())
                     except TypeError:
                         continue
+
     def start(self):
-        self.load_plugins()
-        print("Type 'exit' to exit.")
+        self.load_plugins()        
+        print("Type 'exit' to quit.")
         while True:
-            self.command_handler.execute_command(input(">>> ").strip())
-
-
-
+            command = input(">>> ").strip().lower()
+            if command == 'exit':
+                print("Goodbye!")
+                break
+            else:
+                self.command_handler.execute_command(command)
