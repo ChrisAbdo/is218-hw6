@@ -3,10 +3,10 @@ from app.commands import Command
 from app.calculator import Calculator
 
 class MultiplyCommand(Command):
-    def execute(self):
+    def execute(self, args):
         try:
-            num1 = Decimal(input("Enter first number: "))
-            num2 = Decimal(input("Enter second number: "))
+            num1 = Decimal(args[0])
+            num2 = Decimal(args[1])
             result = Calculator.multiply(num1, num2)
             print(f"Result: {result}")
         except InvalidOperation:

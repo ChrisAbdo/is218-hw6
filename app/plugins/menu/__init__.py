@@ -1,7 +1,7 @@
 from app.commands import Command
 
 class MenuCommand(Command):
-    def execute(self):
+    def execute(self, args):
         print("\nAvailable commands:")
         print("- add")
         print("- subtract")

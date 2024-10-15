@@ -14,3 +14,5 @@ class DivideCommand(Command):
             print(f"{result}")
         except InvalidOperation:
             print("Invalid input. Please enter numeric values.")
+        except ZeroDivisionError:
+            print("Cannot divide by zero.")
