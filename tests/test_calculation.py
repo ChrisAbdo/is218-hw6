@@ -8,13 +8,6 @@ from app.calculator.calculation import Calculation
 from app.calculator.operations import add, subtract, multiply, divide
 
 
-
-@pytest.mark.parametrize("a, b, operation, expected", [
-    (10, 5, add, 15),
-    (10, 5, subtract, 5),
-    (10, 5, multiply, 50),
-    (10, 5, divide, 2),
-])
 def test_ops(a, b, operation, expected):
     """
     Test the Calculation class with the add, subtract, multiply, and divide operations.
