@@ -7,5 +7,6 @@ class MenuCommand(Command):
         print("- subtract")
         print("- multiply")
         print("- divide")
+        print("- history")
         print("- menu (display this menu)")
         print("- exit (quit the application)")
