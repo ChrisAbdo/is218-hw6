@@ -1,3 +1,4 @@
+copypaste for easy reference
 # Project: Command Pattern and Plugins Homework 5
 
 ## Introduction
