@@ -37,7 +37,7 @@ class App:
             command_name = parts[0].lower()
             args = parts[1:]
             if command_name == "exit":
-                print("Bye!")
+                print("Goodbye!")
                 break
             else:
                 self.command_handler.execute_command(command_name, args)
