@@ -77,3 +77,35 @@ def test_clear_history(app):
     """
     Calculations.clear_history()
     assert len(Calculations.history()) == 0
+
+def test_history_command(app, capfd, monkeypatch):
+    """
+    Test that the 'history' command outputs the expected calculation history.
+    """
+    from app.calculator.calculations import Calculations
+    Calculations.clear_history()
+
+    inputs = iter([
+        'add 2 3',
+        'subtract 5 2',
+        'multiply 3 4',
+        'divide 10 2',
+        'history',
+        'exit'
+    ])
+    monkeypatch.setattr('builtins.input', lambda _: next(inputs))
+
+    app.start()
+    out, _ = capfd.readouterr()
+
+    expected_history = [
+        "1: 2 add 3 = 5",
+        "2: 5 subtract 2 = 3",
+        "3: 3 multiply 4 = 12",
+        "4: 10 divide 2 = 5",
+    ]
+
+    for expected_line in expected_history:
+        assert expected_line in out, f"Expected '{expected_line}' in output"
+
+    assert "No calculations have been performed yet." not in out, "History should not be empty"
