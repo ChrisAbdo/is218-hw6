@@ -9,4 +9,4 @@ class MenuCommand(Command):
         print("- divide")
         print("- history")
         print("- menu (display this menu)")
-        print("- exit (quit the application)")
+        print("- exit (quit the app)")

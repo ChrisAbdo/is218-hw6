@@ -11,7 +11,7 @@ class DivideCommand(Command):
             num1 = Decimal(args[0])
             num2 = Decimal(args[1])
             result = Calculator.divide(num1, num2)
-            print(f"{result}")
+            print(result)
         except InvalidOperation:
             print("Invalid input. Please enter numeric values.")
         except ZeroDivisionError:
