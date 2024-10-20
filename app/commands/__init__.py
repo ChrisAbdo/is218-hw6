@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+import logging
 
 class Command(ABC):
     @abstractmethod
@@ -11,10 +12,18 @@ class CommandHandler:
 
     def register_command(self, command_name: str, command: Command):
         self.commands[command_name] = command
+        logging.info(f"Registered command: {command_name}")
 
     def execute_command(self, command_name: str, args):
-       try:
-           self.commands[command_name].execute(args)
-       except KeyError:
-           print(f"No such command: {command_name}")
-
+        try:
+            result = self.commands[command_name].execute(args)
+            logging.info(f"Executed command: {command_name} with args: {args}. Result: {result}")
+            return result
+        except KeyError:
+            error_message = f"No such command: {command_name}"
+            logging.error(error_message)
+            print(error_message)
+        except Exception as e:
+            error_message = f"Error executing command {command_name}: {str(e)}"
+            logging.error(error_message)
+            print(error_message)
