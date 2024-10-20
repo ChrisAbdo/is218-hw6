@@ -1,0 +1,1795 @@
+2024-10-20 02:43:07,436 - root - INFO - Logging configured.
+2024-10-20 02:43:07,437 - root - INFO - Environment variables loaded.
+2024-10-20 02:44:52,111 - root - INFO - Logging configured.
+2024-10-20 02:44:52,112 - root - INFO - Environment variables loaded.
+2024-10-20 03:07:49,943 - root - INFO - Logging configured.
+2024-10-20 03:07:49,944 - root - INFO - Environment variables loaded.
+2024-10-20 03:07:49,952 - root - INFO - Registered command: add
+2024-10-20 03:07:49,952 - root - INFO - Registered command: divide
+2024-10-20 03:07:49,953 - root - INFO - Registered command: exit
+2024-10-20 03:07:49,953 - root - INFO - Registered command: history
+2024-10-20 03:07:49,953 - root - INFO - Registered command: menu
+2024-10-20 03:07:49,954 - root - INFO - Registered command: multiply
+2024-10-20 03:07:49,954 - root - INFO - Registered command: subtract
+2024-10-20 03:07:49,954 - root - INFO - Executing command: menu with args: []
+2024-10-20 03:07:57,078 - root - INFO - Executing command: add with args: ['1', '2']
+2024-10-20 03:08:06,798 - root - INFO - Executing command: divide with args: ['8', '2']
+2024-10-20 03:14:59,707 - root - INFO - Logging configured.
+2024-10-20 03:14:59,708 - root - INFO - Environment variables loaded.
+2024-10-20 03:14:59,715 - root - INFO - Registered command: add
+2024-10-20 03:14:59,715 - root - INFO - Registered command: divide
+2024-10-20 03:14:59,716 - root - INFO - Registered command: exit
+2024-10-20 03:14:59,716 - root - INFO - Registered command: history
+2024-10-20 03:14:59,717 - root - INFO - Registered command: menu
+2024-10-20 03:14:59,717 - root - INFO - Registered command: multiply
+2024-10-20 03:14:59,718 - root - INFO - Registered command: subtract
+2024-10-20 03:14:59,718 - root - INFO - Executing command: menu with args: []
+2024-10-20 03:14:59,718 - root - INFO - Command result: None
+2024-10-20 03:15:02,780 - root - INFO - Executing command: add with args: ['1', '2']
+2024-10-20 03:15:02,781 - root - INFO - Command result: None
+2024-10-20 03:16:06,395 - root - INFO - Logging configured.
+2024-10-20 03:16:06,396 - root - INFO - Environment variables loaded.
+2024-10-20 03:16:06,401 - root - INFO - Registered command: add
+2024-10-20 03:16:06,402 - root - INFO - Registered command: divide
+2024-10-20 03:16:06,403 - root - INFO - Registered command: exit
+2024-10-20 03:16:06,403 - root - INFO - Registered command: history
+2024-10-20 03:16:06,404 - root - INFO - Registered command: menu
+2024-10-20 03:16:06,404 - root - INFO - Registered command: multiply
+2024-10-20 03:16:06,404 - root - INFO - Registered command: subtract
+2024-10-20 03:16:06,404 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:16:11,676 - root - INFO - Executed command: add with args: ['1', '2']. Result: None
+2024-10-20 03:16:47,946 - root - INFO - Logging configured.
+2024-10-20 03:16:47,947 - root - INFO - Environment variables loaded.
+2024-10-20 03:16:47,953 - root - INFO - Registered command: add
+2024-10-20 03:16:47,953 - root - INFO - Registered command: divide
+2024-10-20 03:16:47,954 - root - INFO - Registered command: exit
+2024-10-20 03:16:47,954 - root - INFO - Registered command: history
+2024-10-20 03:16:47,955 - root - INFO - Registered command: menu
+2024-10-20 03:16:47,955 - root - INFO - Registered command: multiply
+2024-10-20 03:16:47,955 - root - INFO - Registered command: subtract
+2024-10-20 03:16:47,955 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:17:51,505 - root - INFO - Logging configured.
+2024-10-20 03:17:51,506 - root - INFO - Environment variables loaded.
+2024-10-20 03:17:51,512 - root - INFO - Registered command: add
+2024-10-20 03:17:51,513 - root - INFO - Registered command: divide
+2024-10-20 03:17:51,513 - root - INFO - Registered command: exit
+2024-10-20 03:17:51,513 - root - INFO - Registered command: history
+2024-10-20 03:17:51,514 - root - INFO - Registered command: menu
+2024-10-20 03:17:51,514 - root - INFO - Registered command: multiply
+2024-10-20 03:17:51,515 - root - INFO - Registered command: subtract
+2024-10-20 03:17:51,515 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:17:54,616 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-10-20 03:19:01,777 - root - INFO - Logging configured.
+2024-10-20 03:19:01,778 - root - INFO - Environment variables loaded.
+2024-10-20 03:19:01,784 - root - INFO - Registered command: add
+2024-10-20 03:19:01,785 - root - INFO - Registered command: divide
+2024-10-20 03:19:01,785 - root - INFO - Registered command: exit
+2024-10-20 03:19:01,786 - root - INFO - Registered command: history
+2024-10-20 03:19:01,786 - root - INFO - Registered command: menu
+2024-10-20 03:19:01,787 - root - INFO - Registered command: multiply
+2024-10-20 03:19:01,788 - root - INFO - Registered command: subtract
+2024-10-20 03:19:01,788 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:19:08,455 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:19:15,954 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-10-20 03:19:22,427 - root - INFO - Executed command: subtract with args: ['9', '3']. Result: 6
+2024-10-20 03:19:38,176 - root - INFO - Executed command: multiply with args: ['5', '2']. Result: 10
+2024-10-20 03:20:43,599 - root - INFO - Logging configured.
+2024-10-20 03:20:43,600 - root - INFO - Environment variables loaded.
+2024-10-20 03:20:43,606 - root - INFO - Registered command: add
+2024-10-20 03:20:43,607 - root - INFO - Registered command: divide
+2024-10-20 03:20:43,608 - root - INFO - Registered command: exit
+2024-10-20 03:20:43,608 - root - INFO - Registered command: history
+2024-10-20 03:20:43,609 - root - INFO - Registered command: menu
+2024-10-20 03:20:43,610 - root - INFO - Registered command: multiply
+2024-10-20 03:20:43,610 - root - INFO - Registered command: subtract
+2024-10-20 03:20:43,610 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:20:47,146 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-10-20 03:20:55,629 - root - INFO - Executed command: multiply with args: ['9', '2']. Result: 18
+2024-10-20 03:20:59,859 - root - ERROR - No such command: multipy
+2024-10-20 03:26:44,693 - root - INFO - Logging configured.
+2024-10-20 03:26:44,694 - root - INFO - Environment variables loaded.
+2024-10-20 03:26:44,701 - root - INFO - Registered command: add
+2024-10-20 03:26:44,703 - root - INFO - Registered command: divide
+2024-10-20 03:26:44,703 - root - INFO - Registered command: exit
+2024-10-20 03:26:44,704 - root - INFO - Registered command: history
+2024-10-20 03:26:44,704 - root - INFO - Registered command: menu
+2024-10-20 03:26:44,705 - root - INFO - Registered command: multiply
+2024-10-20 03:26:44,706 - root - INFO - Registered command: subtract
+2024-10-20 03:26:44,706 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:26:49,809 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-10-20 03:29:26,318 - root - INFO - Logging configured.
+2024-10-20 03:29:26,319 - root - INFO - Environment variables loaded.
+2024-10-20 03:29:26,326 - root - INFO - Registered command: add
+2024-10-20 03:29:26,326 - root - INFO - Registered command: divide
+2024-10-20 03:29:26,327 - root - INFO - Registered command: exit
+2024-10-20 03:29:26,327 - root - INFO - Registered command: history
+2024-10-20 03:29:26,328 - root - INFO - Registered command: menu
+2024-10-20 03:29:26,328 - root - INFO - Registered command: multiply
+2024-10-20 03:29:26,328 - root - INFO - Registered command: subtract
+2024-10-20 03:29:26,328 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:29:30,692 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:29:36,605 - root - INFO - Executed command: add with args: ['2']. Result: Usage: add <number1> <number2>
+2024-10-20 03:29:42,665 - root - INFO - Executed command: add with args: ['2', 'df']. Result: Invalid number format
+2024-10-20 03:29:48,945 - root - INFO - Executed command: add with args: ['1', '2']. Result: 3
+2024-10-20 03:30:34,632 - root - INFO - Logging configured.
+2024-10-20 03:30:34,632 - root - INFO - Environment variables loaded.
+2024-10-20 03:30:34,639 - root - INFO - Registered command: add
+2024-10-20 03:30:34,640 - root - INFO - Registered command: divide
+2024-10-20 03:30:34,640 - root - INFO - Registered command: exit
+2024-10-20 03:30:34,641 - root - INFO - Registered command: history
+2024-10-20 03:30:34,641 - root - INFO - Registered command: menu
+2024-10-20 03:30:34,642 - root - INFO - Registered command: multiply
+2024-10-20 03:30:34,642 - root - INFO - Registered command: subtract
+2024-10-20 03:30:34,642 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:30:36,122 - root - ERROR - No such command: test
+2024-10-20 03:31:05,890 - root - INFO - Logging configured.
+2024-10-20 03:31:05,891 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,891 - root - INFO - Registered command: add
+2024-10-20 03:31:05,892 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,893 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,893 - root - INFO - Registered command: history
+2024-10-20 03:31:05,894 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,894 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,895 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,895 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,897 - root - INFO - Logging configured.
+2024-10-20 03:31:05,897 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,897 - root - INFO - Registered command: add
+2024-10-20 03:31:05,897 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,897 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,898 - root - INFO - Registered command: history
+2024-10-20 03:31:05,898 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,898 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,898 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,898 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,898 - root - ERROR - No such command: unknown_command
+2024-10-20 03:31:05,900 - root - INFO - Logging configured.
+2024-10-20 03:31:05,901 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,901 - root - INFO - Registered command: add
+2024-10-20 03:31:05,901 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,901 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,901 - root - INFO - Registered command: history
+2024-10-20 03:31:05,901 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,901 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,901 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,901 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,901 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:31:05,904 - root - INFO - Logging configured.
+2024-10-20 03:31:05,904 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,904 - root - INFO - Registered command: add
+2024-10-20 03:31:05,904 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,904 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,904 - root - INFO - Registered command: history
+2024-10-20 03:31:05,904 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,904 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,904 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,905 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,905 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:31:05,906 - root - INFO - Logging configured.
+2024-10-20 03:31:05,907 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,907 - root - INFO - Registered command: add
+2024-10-20 03:31:05,907 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,907 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,907 - root - INFO - Registered command: history
+2024-10-20 03:31:05,907 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,907 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,907 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,907 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,907 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:31:05,909 - root - INFO - Logging configured.
+2024-10-20 03:31:05,910 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,910 - root - INFO - Registered command: add
+2024-10-20 03:31:05,910 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,910 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,910 - root - INFO - Registered command: history
+2024-10-20 03:31:05,910 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,910 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,910 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,910 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,910 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:31:05,912 - root - INFO - Logging configured.
+2024-10-20 03:31:05,912 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,912 - root - INFO - Registered command: add
+2024-10-20 03:31:05,912 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,913 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,913 - root - INFO - Registered command: history
+2024-10-20 03:31:05,913 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,913 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,913 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,913 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,913 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,917 - root - INFO - Logging configured.
+2024-10-20 03:31:05,917 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,918 - root - INFO - Registered command: add
+2024-10-20 03:31:05,918 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,918 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,918 - root - INFO - Registered command: history
+2024-10-20 03:31:05,918 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,918 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,919 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,919 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,919 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:31:05,920 - root - INFO - Logging configured.
+2024-10-20 03:31:05,921 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,921 - root - INFO - Registered command: add
+2024-10-20 03:31:05,921 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,921 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,922 - root - INFO - Registered command: history
+2024-10-20 03:31:05,922 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,922 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,922 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,922 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,922 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:31:05,923 - root - INFO - Logging configured.
+2024-10-20 03:31:05,923 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,924 - root - INFO - Registered command: add
+2024-10-20 03:31:05,924 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,924 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,924 - root - INFO - Registered command: history
+2024-10-20 03:31:05,924 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,924 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,924 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,925 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,925 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:31:05,926 - root - INFO - Logging configured.
+2024-10-20 03:31:05,926 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,927 - root - INFO - Registered command: add
+2024-10-20 03:31:05,927 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,928 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,928 - root - INFO - Registered command: history
+2024-10-20 03:31:05,928 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,928 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,928 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,928 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,928 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:31:05,929 - root - INFO - Logging configured.
+2024-10-20 03:31:05,929 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,930 - root - INFO - Registered command: add
+2024-10-20 03:31:05,930 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,930 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,931 - root - INFO - Registered command: history
+2024-10-20 03:31:05,931 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,931 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,931 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,932 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,932 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:31:05,933 - root - INFO - Logging configured.
+2024-10-20 03:31:05,934 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,935 - root - INFO - Registered command: add
+2024-10-20 03:31:05,935 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,935 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,935 - root - INFO - Registered command: history
+2024-10-20 03:31:05,935 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,935 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,935 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,935 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,935 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:31:05,935 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:31:05,935 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:31:05,935 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:31:05,936 - root - INFO - Logging configured.
+2024-10-20 03:31:05,937 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,938 - root - INFO - Logging configured.
+2024-10-20 03:31:05,938 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:05,939 - root - INFO - Registered command: add
+2024-10-20 03:31:05,939 - root - INFO - Registered command: divide
+2024-10-20 03:31:05,939 - root - INFO - Registered command: exit
+2024-10-20 03:31:05,939 - root - INFO - Registered command: history
+2024-10-20 03:31:05,939 - root - INFO - Registered command: menu
+2024-10-20 03:31:05,939 - root - INFO - Registered command: multiply
+2024-10-20 03:31:05,939 - root - INFO - Registered command: subtract
+2024-10-20 03:31:05,939 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:05,939 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:31:05,939 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:31:05,940 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:31:05,940 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:31:05,940 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:31:15,879 - root - INFO - Logging configured.
+2024-10-20 03:31:15,880 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,881 - root - INFO - Registered command: add
+2024-10-20 03:31:15,881 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,882 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,883 - root - INFO - Registered command: history
+2024-10-20 03:31:15,883 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,884 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,884 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,884 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,886 - root - INFO - Logging configured.
+2024-10-20 03:31:15,887 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,887 - root - INFO - Registered command: add
+2024-10-20 03:31:15,887 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,887 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,887 - root - INFO - Registered command: history
+2024-10-20 03:31:15,887 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,887 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,887 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,888 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,888 - root - ERROR - No such command: unknown_command
+2024-10-20 03:31:15,890 - root - INFO - Logging configured.
+2024-10-20 03:31:15,890 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,891 - root - INFO - Registered command: add
+2024-10-20 03:31:15,891 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,891 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,891 - root - INFO - Registered command: history
+2024-10-20 03:31:15,891 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,891 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,891 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,891 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,891 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:31:15,894 - root - INFO - Logging configured.
+2024-10-20 03:31:15,894 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,894 - root - INFO - Registered command: add
+2024-10-20 03:31:15,894 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,894 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,895 - root - INFO - Registered command: history
+2024-10-20 03:31:15,895 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,895 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,895 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,895 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,895 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:31:15,897 - root - INFO - Logging configured.
+2024-10-20 03:31:15,898 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,898 - root - INFO - Registered command: add
+2024-10-20 03:31:15,898 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,898 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,898 - root - INFO - Registered command: history
+2024-10-20 03:31:15,898 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,898 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,898 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,899 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,899 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:31:15,901 - root - INFO - Logging configured.
+2024-10-20 03:31:15,902 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,902 - root - INFO - Registered command: add
+2024-10-20 03:31:15,902 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,902 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,902 - root - INFO - Registered command: history
+2024-10-20 03:31:15,902 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,902 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,902 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,902 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,902 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:31:15,905 - root - INFO - Logging configured.
+2024-10-20 03:31:15,905 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,905 - root - INFO - Registered command: add
+2024-10-20 03:31:15,905 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,906 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,906 - root - INFO - Registered command: history
+2024-10-20 03:31:15,906 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,906 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,906 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,906 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,906 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,913 - root - INFO - Logging configured.
+2024-10-20 03:31:15,913 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,914 - root - INFO - Registered command: add
+2024-10-20 03:31:15,914 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,914 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,914 - root - INFO - Registered command: history
+2024-10-20 03:31:15,914 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,915 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,915 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,915 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,915 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:31:15,916 - root - INFO - Logging configured.
+2024-10-20 03:31:15,917 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,918 - root - INFO - Registered command: add
+2024-10-20 03:31:15,918 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,918 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,918 - root - INFO - Registered command: history
+2024-10-20 03:31:15,918 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,918 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,918 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,918 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,919 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:31:15,920 - root - INFO - Logging configured.
+2024-10-20 03:31:15,921 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,922 - root - INFO - Registered command: add
+2024-10-20 03:31:15,922 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,922 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,922 - root - INFO - Registered command: history
+2024-10-20 03:31:15,922 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,922 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,922 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,922 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,922 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:31:15,924 - root - INFO - Logging configured.
+2024-10-20 03:31:15,925 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,926 - root - INFO - Registered command: add
+2024-10-20 03:31:15,926 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,926 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,926 - root - INFO - Registered command: history
+2024-10-20 03:31:15,926 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,926 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,926 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,927 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,927 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:31:15,928 - root - INFO - Logging configured.
+2024-10-20 03:31:15,929 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,929 - root - INFO - Registered command: add
+2024-10-20 03:31:15,930 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,930 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,930 - root - INFO - Registered command: history
+2024-10-20 03:31:15,930 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,930 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,930 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,930 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,931 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:31:15,932 - root - INFO - Logging configured.
+2024-10-20 03:31:15,933 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,933 - root - INFO - Registered command: add
+2024-10-20 03:31:15,934 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,934 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,934 - root - INFO - Registered command: history
+2024-10-20 03:31:15,934 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,934 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,934 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,934 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,934 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:31:15,934 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:31:15,934 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:31:15,934 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:31:15,936 - root - INFO - Logging configured.
+2024-10-20 03:31:15,936 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,938 - root - INFO - Logging configured.
+2024-10-20 03:31:15,938 - root - INFO - Environment variables loaded.
+2024-10-20 03:31:15,939 - root - INFO - Registered command: add
+2024-10-20 03:31:15,939 - root - INFO - Registered command: divide
+2024-10-20 03:31:15,939 - root - INFO - Registered command: exit
+2024-10-20 03:31:15,939 - root - INFO - Registered command: history
+2024-10-20 03:31:15,939 - root - INFO - Registered command: menu
+2024-10-20 03:31:15,940 - root - INFO - Registered command: multiply
+2024-10-20 03:31:15,940 - root - INFO - Registered command: subtract
+2024-10-20 03:31:15,940 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:31:15,940 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:31:15,940 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:31:15,940 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:31:15,940 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:31:15,940 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:33:33,961 - root - INFO - Logging configured.
+2024-10-20 03:33:33,962 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,962 - root - INFO - Registered command: add
+2024-10-20 03:33:33,963 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,964 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,964 - root - INFO - Registered command: history
+2024-10-20 03:33:33,965 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,965 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,965 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,966 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,968 - root - INFO - Logging configured.
+2024-10-20 03:33:33,968 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,968 - root - INFO - Registered command: add
+2024-10-20 03:33:33,968 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,968 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,968 - root - INFO - Registered command: history
+2024-10-20 03:33:33,968 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,968 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,969 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,969 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,969 - root - ERROR - No such command: unknown_command
+2024-10-20 03:33:33,971 - root - INFO - Logging configured.
+2024-10-20 03:33:33,971 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,971 - root - INFO - Registered command: add
+2024-10-20 03:33:33,971 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,971 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,971 - root - INFO - Registered command: history
+2024-10-20 03:33:33,971 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,972 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,972 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,972 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,972 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:33:33,973 - root - INFO - Logging configured.
+2024-10-20 03:33:33,974 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,974 - root - INFO - Registered command: add
+2024-10-20 03:33:33,974 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,974 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,974 - root - INFO - Registered command: history
+2024-10-20 03:33:33,974 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,974 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,974 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,974 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,974 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:33:33,976 - root - INFO - Logging configured.
+2024-10-20 03:33:33,976 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,976 - root - INFO - Registered command: add
+2024-10-20 03:33:33,976 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,976 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,976 - root - INFO - Registered command: history
+2024-10-20 03:33:33,977 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,977 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,977 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,977 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,977 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:33:33,979 - root - INFO - Logging configured.
+2024-10-20 03:33:33,979 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,979 - root - INFO - Registered command: add
+2024-10-20 03:33:33,979 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,979 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,979 - root - INFO - Registered command: history
+2024-10-20 03:33:33,979 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,979 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,980 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,980 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,980 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:33:33,981 - root - INFO - Logging configured.
+2024-10-20 03:33:33,982 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,982 - root - INFO - Registered command: add
+2024-10-20 03:33:33,982 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,982 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,982 - root - INFO - Registered command: history
+2024-10-20 03:33:33,982 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,982 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,982 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,982 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,982 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,986 - root - INFO - Logging configured.
+2024-10-20 03:33:33,986 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,987 - root - INFO - Registered command: add
+2024-10-20 03:33:33,987 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,987 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,987 - root - INFO - Registered command: history
+2024-10-20 03:33:33,987 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,988 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,988 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,988 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,988 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:33:33,989 - root - INFO - Logging configured.
+2024-10-20 03:33:33,989 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,990 - root - INFO - Registered command: add
+2024-10-20 03:33:33,990 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,990 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,991 - root - INFO - Registered command: history
+2024-10-20 03:33:33,991 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,991 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,991 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,991 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,991 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:33:33,992 - root - INFO - Logging configured.
+2024-10-20 03:33:33,992 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,993 - root - INFO - Registered command: add
+2024-10-20 03:33:33,993 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,993 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,993 - root - INFO - Registered command: history
+2024-10-20 03:33:33,993 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,993 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,993 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,994 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,994 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:33:33,995 - root - INFO - Logging configured.
+2024-10-20 03:33:33,995 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,997 - root - INFO - Registered command: add
+2024-10-20 03:33:33,997 - root - INFO - Registered command: divide
+2024-10-20 03:33:33,997 - root - INFO - Registered command: exit
+2024-10-20 03:33:33,997 - root - INFO - Registered command: history
+2024-10-20 03:33:33,997 - root - INFO - Registered command: menu
+2024-10-20 03:33:33,997 - root - INFO - Registered command: multiply
+2024-10-20 03:33:33,997 - root - INFO - Registered command: subtract
+2024-10-20 03:33:33,997 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:33,997 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:33:33,998 - root - INFO - Logging configured.
+2024-10-20 03:33:33,999 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:33,999 - root - INFO - Registered command: add
+2024-10-20 03:33:34,000 - root - INFO - Registered command: divide
+2024-10-20 03:33:34,000 - root - INFO - Registered command: exit
+2024-10-20 03:33:34,000 - root - INFO - Registered command: history
+2024-10-20 03:33:34,000 - root - INFO - Registered command: menu
+2024-10-20 03:33:34,000 - root - INFO - Registered command: multiply
+2024-10-20 03:33:34,000 - root - INFO - Registered command: subtract
+2024-10-20 03:33:34,000 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:34,000 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:33:34,001 - root - INFO - Logging configured.
+2024-10-20 03:33:34,002 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,002 - root - INFO - Registered command: add
+2024-10-20 03:33:34,002 - root - INFO - Registered command: divide
+2024-10-20 03:33:34,003 - root - INFO - Registered command: exit
+2024-10-20 03:33:34,003 - root - INFO - Registered command: history
+2024-10-20 03:33:34,003 - root - INFO - Registered command: menu
+2024-10-20 03:33:34,003 - root - INFO - Registered command: multiply
+2024-10-20 03:33:34,003 - root - INFO - Registered command: subtract
+2024-10-20 03:33:34,003 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:34,003 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:33:34,003 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:33:34,003 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:33:34,003 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:33:34,004 - root - INFO - Logging configured.
+2024-10-20 03:33:34,004 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,005 - root - INFO - Logging configured.
+2024-10-20 03:33:34,005 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,006 - root - INFO - Registered command: add
+2024-10-20 03:33:34,006 - root - INFO - Registered command: divide
+2024-10-20 03:33:34,006 - root - INFO - Registered command: exit
+2024-10-20 03:33:34,006 - root - INFO - Registered command: history
+2024-10-20 03:33:34,006 - root - INFO - Registered command: menu
+2024-10-20 03:33:34,007 - root - INFO - Registered command: multiply
+2024-10-20 03:33:34,007 - root - INFO - Registered command: subtract
+2024-10-20 03:33:34,007 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:33:34,007 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:33:34,007 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:33:34,007 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:33:34,007 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:33:34,007 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:33:34,008 - root - INFO - Logging configured.
+2024-10-20 03:33:34,009 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,009 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,010 - root - INFO - Logging configured.
+2024-10-20 03:33:34,010 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,033 - root - INFO - Logging configured.
+2024-10-20 03:33:34,033 - root - INFO - Environment variables loaded.
+2024-10-20 03:33:34,037 - root - INFO - Logging configured.
+2024-10-20 03:33:34,038 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,811 - root - INFO - Logging configured.
+2024-10-20 03:35:03,812 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,812 - root - INFO - Registered command: add
+2024-10-20 03:35:03,812 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,813 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,814 - root - INFO - Registered command: history
+2024-10-20 03:35:03,814 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,814 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,815 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,815 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,817 - root - INFO - Logging configured.
+2024-10-20 03:35:03,817 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,817 - root - INFO - Registered command: add
+2024-10-20 03:35:03,817 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,817 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,817 - root - INFO - Registered command: history
+2024-10-20 03:35:03,818 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,818 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,818 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,818 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,818 - root - ERROR - No such command: unknown_command
+2024-10-20 03:35:03,820 - root - INFO - Logging configured.
+2024-10-20 03:35:03,820 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,820 - root - INFO - Registered command: add
+2024-10-20 03:35:03,820 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,820 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,820 - root - INFO - Registered command: history
+2024-10-20 03:35:03,820 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,820 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,821 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,821 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,821 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:35:03,822 - root - INFO - Logging configured.
+2024-10-20 03:35:03,823 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,823 - root - INFO - Registered command: add
+2024-10-20 03:35:03,823 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,823 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,823 - root - INFO - Registered command: history
+2024-10-20 03:35:03,823 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,823 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,823 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,823 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,823 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:35:03,825 - root - INFO - Logging configured.
+2024-10-20 03:35:03,825 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,825 - root - INFO - Registered command: add
+2024-10-20 03:35:03,825 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,825 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,825 - root - INFO - Registered command: history
+2024-10-20 03:35:03,825 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,825 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,826 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,826 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,826 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:35:03,828 - root - INFO - Logging configured.
+2024-10-20 03:35:03,828 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,828 - root - INFO - Registered command: add
+2024-10-20 03:35:03,828 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,829 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,829 - root - INFO - Registered command: history
+2024-10-20 03:35:03,829 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,829 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,829 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,829 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,829 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:35:03,831 - root - INFO - Logging configured.
+2024-10-20 03:35:03,831 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,831 - root - INFO - Registered command: add
+2024-10-20 03:35:03,831 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,831 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,831 - root - INFO - Registered command: history
+2024-10-20 03:35:03,831 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,831 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,831 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,832 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,832 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,836 - root - INFO - Logging configured.
+2024-10-20 03:35:03,836 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,837 - root - INFO - Registered command: add
+2024-10-20 03:35:03,837 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,837 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,837 - root - INFO - Registered command: history
+2024-10-20 03:35:03,837 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,837 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,837 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,838 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,838 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:35:03,839 - root - INFO - Logging configured.
+2024-10-20 03:35:03,839 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,840 - root - INFO - Registered command: add
+2024-10-20 03:35:03,840 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,840 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,840 - root - INFO - Registered command: history
+2024-10-20 03:35:03,840 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,840 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,840 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,840 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,840 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:35:03,842 - root - INFO - Logging configured.
+2024-10-20 03:35:03,842 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,843 - root - INFO - Registered command: add
+2024-10-20 03:35:03,843 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,843 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,843 - root - INFO - Registered command: history
+2024-10-20 03:35:03,843 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,843 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,843 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,843 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,843 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:35:03,845 - root - INFO - Logging configured.
+2024-10-20 03:35:03,845 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,846 - root - INFO - Registered command: add
+2024-10-20 03:35:03,846 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,846 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,846 - root - INFO - Registered command: history
+2024-10-20 03:35:03,846 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,846 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,846 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,847 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,847 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:35:03,848 - root - INFO - Logging configured.
+2024-10-20 03:35:03,848 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,849 - root - INFO - Registered command: add
+2024-10-20 03:35:03,849 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,849 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,849 - root - INFO - Registered command: history
+2024-10-20 03:35:03,849 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,849 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,849 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,850 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,850 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:35:03,851 - root - INFO - Logging configured.
+2024-10-20 03:35:03,851 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,852 - root - INFO - Registered command: add
+2024-10-20 03:35:03,852 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,852 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,852 - root - INFO - Registered command: history
+2024-10-20 03:35:03,852 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,852 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,852 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,852 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,852 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:35:03,852 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:35:03,853 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:35:03,853 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:35:03,854 - root - INFO - Logging configured.
+2024-10-20 03:35:03,854 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,855 - root - INFO - Logging configured.
+2024-10-20 03:35:03,855 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,856 - root - INFO - Registered command: add
+2024-10-20 03:35:03,856 - root - INFO - Registered command: divide
+2024-10-20 03:35:03,856 - root - INFO - Registered command: exit
+2024-10-20 03:35:03,856 - root - INFO - Registered command: history
+2024-10-20 03:35:03,856 - root - INFO - Registered command: menu
+2024-10-20 03:35:03,856 - root - INFO - Registered command: multiply
+2024-10-20 03:35:03,857 - root - INFO - Registered command: subtract
+2024-10-20 03:35:03,857 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:03,857 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:35:03,857 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:35:03,857 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:35:03,857 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:35:03,857 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:35:03,858 - root - INFO - Logging configured.
+2024-10-20 03:35:03,858 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,859 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,860 - root - INFO - Logging configured.
+2024-10-20 03:35:03,860 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,861 - root - INFO - Logging configured.
+2024-10-20 03:35:03,861 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:03,888 - root - INFO - Logging configured.
+2024-10-20 03:35:03,889 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,449 - root - INFO - Logging configured.
+2024-10-20 03:35:53,450 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,450 - root - INFO - Registered command: add
+2024-10-20 03:35:53,451 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,452 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,452 - root - INFO - Registered command: history
+2024-10-20 03:35:53,453 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,453 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,453 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,453 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,455 - root - INFO - Logging configured.
+2024-10-20 03:35:53,455 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,456 - root - INFO - Registered command: add
+2024-10-20 03:35:53,456 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,456 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,456 - root - INFO - Registered command: history
+2024-10-20 03:35:53,456 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,456 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,456 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,456 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,456 - root - ERROR - No such command: unknown_command
+2024-10-20 03:35:53,458 - root - INFO - Logging configured.
+2024-10-20 03:35:53,458 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,458 - root - INFO - Registered command: add
+2024-10-20 03:35:53,459 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,459 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,459 - root - INFO - Registered command: history
+2024-10-20 03:35:53,459 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,459 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,459 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,459 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,459 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:35:53,461 - root - INFO - Logging configured.
+2024-10-20 03:35:53,461 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,461 - root - INFO - Registered command: add
+2024-10-20 03:35:53,461 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,461 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,461 - root - INFO - Registered command: history
+2024-10-20 03:35:53,461 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,461 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,461 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,462 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,462 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:35:53,463 - root - INFO - Logging configured.
+2024-10-20 03:35:53,463 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,464 - root - INFO - Registered command: add
+2024-10-20 03:35:53,464 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,464 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,464 - root - INFO - Registered command: history
+2024-10-20 03:35:53,464 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,464 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,464 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,464 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,464 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:35:53,466 - root - INFO - Logging configured.
+2024-10-20 03:35:53,467 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,467 - root - INFO - Registered command: add
+2024-10-20 03:35:53,467 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,467 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,467 - root - INFO - Registered command: history
+2024-10-20 03:35:53,467 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,467 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,467 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,467 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,467 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:35:53,469 - root - INFO - Logging configured.
+2024-10-20 03:35:53,469 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,469 - root - INFO - Registered command: add
+2024-10-20 03:35:53,469 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,469 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,470 - root - INFO - Registered command: history
+2024-10-20 03:35:53,470 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,470 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,470 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,470 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,470 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,474 - root - INFO - Logging configured.
+2024-10-20 03:35:53,474 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,475 - root - INFO - Registered command: add
+2024-10-20 03:35:53,475 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,475 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,475 - root - INFO - Registered command: history
+2024-10-20 03:35:53,475 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,476 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,476 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,476 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,476 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:35:53,477 - root - INFO - Logging configured.
+2024-10-20 03:35:53,477 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,478 - root - INFO - Registered command: add
+2024-10-20 03:35:53,478 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,478 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,479 - root - INFO - Registered command: history
+2024-10-20 03:35:53,479 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,479 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,479 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,479 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,479 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:35:53,480 - root - INFO - Logging configured.
+2024-10-20 03:35:53,480 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,481 - root - INFO - Registered command: add
+2024-10-20 03:35:53,481 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,481 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,481 - root - INFO - Registered command: history
+2024-10-20 03:35:53,481 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,482 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,482 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,482 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,482 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:35:53,483 - root - INFO - Logging configured.
+2024-10-20 03:35:53,483 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,484 - root - INFO - Registered command: add
+2024-10-20 03:35:53,485 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,485 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,485 - root - INFO - Registered command: history
+2024-10-20 03:35:53,485 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,485 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,485 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,485 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,485 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:35:53,486 - root - INFO - Logging configured.
+2024-10-20 03:35:53,486 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,487 - root - INFO - Registered command: add
+2024-10-20 03:35:53,487 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,487 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,487 - root - INFO - Registered command: history
+2024-10-20 03:35:53,487 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,488 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,488 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,488 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,488 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:35:53,489 - root - INFO - Logging configured.
+2024-10-20 03:35:53,489 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,490 - root - INFO - Registered command: add
+2024-10-20 03:35:53,490 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,490 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,490 - root - INFO - Registered command: history
+2024-10-20 03:35:53,490 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,490 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,491 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,491 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,491 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:35:53,491 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:35:53,491 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:35:53,491 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:35:53,492 - root - INFO - Logging configured.
+2024-10-20 03:35:53,492 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,493 - root - INFO - Logging configured.
+2024-10-20 03:35:53,493 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,494 - root - INFO - Registered command: add
+2024-10-20 03:35:53,494 - root - INFO - Registered command: divide
+2024-10-20 03:35:53,494 - root - INFO - Registered command: exit
+2024-10-20 03:35:53,494 - root - INFO - Registered command: history
+2024-10-20 03:35:53,494 - root - INFO - Registered command: menu
+2024-10-20 03:35:53,494 - root - INFO - Registered command: multiply
+2024-10-20 03:35:53,494 - root - INFO - Registered command: subtract
+2024-10-20 03:35:53,494 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:35:53,494 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:35:53,494 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:35:53,495 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:35:53,495 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:35:53,495 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:35:53,496 - root - INFO - Logging configured.
+2024-10-20 03:35:53,496 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,496 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,497 - root - INFO - Logging configured.
+2024-10-20 03:35:53,497 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,498 - root - INFO - Logging configured.
+2024-10-20 03:35:53,498 - root - INFO - Environment variables loaded.
+2024-10-20 03:35:53,523 - root - INFO - Logging configured.
+2024-10-20 03:35:53,524 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,289 - root - INFO - Logging configured.
+2024-10-20 03:36:08,290 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,290 - root - INFO - Registered command: add
+2024-10-20 03:36:08,290 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,291 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,292 - root - INFO - Registered command: history
+2024-10-20 03:36:08,292 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,292 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,292 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,292 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,294 - root - INFO - Logging configured.
+2024-10-20 03:36:08,295 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,295 - root - INFO - Registered command: add
+2024-10-20 03:36:08,295 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,295 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,295 - root - INFO - Registered command: history
+2024-10-20 03:36:08,295 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,295 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,295 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,295 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,295 - root - ERROR - No such command: unknown_command
+2024-10-20 03:36:08,297 - root - INFO - Logging configured.
+2024-10-20 03:36:08,297 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,297 - root - INFO - Registered command: add
+2024-10-20 03:36:08,298 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,298 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,298 - root - INFO - Registered command: history
+2024-10-20 03:36:08,298 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,298 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,298 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,298 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,298 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:36:08,300 - root - INFO - Logging configured.
+2024-10-20 03:36:08,300 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,300 - root - INFO - Registered command: add
+2024-10-20 03:36:08,300 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,300 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,300 - root - INFO - Registered command: history
+2024-10-20 03:36:08,300 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,300 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,300 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,300 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,301 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:36:08,302 - root - INFO - Logging configured.
+2024-10-20 03:36:08,303 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,303 - root - INFO - Registered command: add
+2024-10-20 03:36:08,303 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,303 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,303 - root - INFO - Registered command: history
+2024-10-20 03:36:08,303 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,303 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,303 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,303 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,303 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:36:08,305 - root - INFO - Logging configured.
+2024-10-20 03:36:08,305 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,305 - root - INFO - Registered command: add
+2024-10-20 03:36:08,305 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,305 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,305 - root - INFO - Registered command: history
+2024-10-20 03:36:08,306 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,306 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,306 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,306 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,306 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:36:08,308 - root - INFO - Logging configured.
+2024-10-20 03:36:08,308 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,308 - root - INFO - Registered command: add
+2024-10-20 03:36:08,308 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,308 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,308 - root - INFO - Registered command: history
+2024-10-20 03:36:08,308 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,308 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,308 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,308 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,309 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,312 - root - INFO - Logging configured.
+2024-10-20 03:36:08,313 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,313 - root - INFO - Registered command: add
+2024-10-20 03:36:08,314 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,314 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,314 - root - INFO - Registered command: history
+2024-10-20 03:36:08,314 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,314 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,314 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,314 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,314 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:36:08,315 - root - INFO - Logging configured.
+2024-10-20 03:36:08,316 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,316 - root - INFO - Registered command: add
+2024-10-20 03:36:08,317 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,317 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,317 - root - INFO - Registered command: history
+2024-10-20 03:36:08,317 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,317 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,317 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,317 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,317 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:36:08,318 - root - INFO - Logging configured.
+2024-10-20 03:36:08,318 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,319 - root - INFO - Registered command: add
+2024-10-20 03:36:08,319 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,319 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,319 - root - INFO - Registered command: history
+2024-10-20 03:36:08,319 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,320 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,320 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,320 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,320 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:36:08,321 - root - INFO - Logging configured.
+2024-10-20 03:36:08,322 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,322 - root - INFO - Registered command: add
+2024-10-20 03:36:08,323 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,323 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,323 - root - INFO - Registered command: history
+2024-10-20 03:36:08,323 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,323 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,323 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,323 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,323 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:36:08,324 - root - INFO - Logging configured.
+2024-10-20 03:36:08,324 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,325 - root - INFO - Registered command: add
+2024-10-20 03:36:08,325 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,325 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,325 - root - INFO - Registered command: history
+2024-10-20 03:36:08,326 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,326 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,326 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,326 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,326 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:36:08,327 - root - INFO - Logging configured.
+2024-10-20 03:36:08,327 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,328 - root - INFO - Registered command: add
+2024-10-20 03:36:08,328 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,328 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,328 - root - INFO - Registered command: history
+2024-10-20 03:36:08,328 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,329 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,329 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,329 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,329 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:36:08,329 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:36:08,329 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:36:08,329 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:36:08,330 - root - INFO - Logging configured.
+2024-10-20 03:36:08,330 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,331 - root - INFO - Logging configured.
+2024-10-20 03:36:08,331 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,332 - root - INFO - Registered command: add
+2024-10-20 03:36:08,332 - root - INFO - Registered command: divide
+2024-10-20 03:36:08,332 - root - INFO - Registered command: exit
+2024-10-20 03:36:08,332 - root - INFO - Registered command: history
+2024-10-20 03:36:08,332 - root - INFO - Registered command: menu
+2024-10-20 03:36:08,332 - root - INFO - Registered command: multiply
+2024-10-20 03:36:08,332 - root - INFO - Registered command: subtract
+2024-10-20 03:36:08,333 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:08,333 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:36:08,333 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:36:08,333 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:36:08,333 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:36:08,333 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:36:08,334 - root - INFO - Logging configured.
+2024-10-20 03:36:08,334 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,335 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,335 - root - INFO - Logging configured.
+2024-10-20 03:36:08,335 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,336 - root - INFO - Logging configured.
+2024-10-20 03:36:08,336 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:08,340 - root - INFO - Logging configured.
+2024-10-20 03:36:08,364 - root - INFO - Logging configured.
+2024-10-20 03:36:08,364 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,103 - app - INFO - Logging configured.
+2024-10-20 03:36:50,104 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,104 - root - INFO - Registered command: add
+2024-10-20 03:36:50,105 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,106 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,106 - root - INFO - Registered command: history
+2024-10-20 03:36:50,107 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,107 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,107 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,107 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,110 - app - INFO - Logging configured.
+2024-10-20 03:36:50,110 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,110 - root - INFO - Registered command: add
+2024-10-20 03:36:50,110 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,110 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,110 - root - INFO - Registered command: history
+2024-10-20 03:36:50,110 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,111 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,111 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,111 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,111 - root - ERROR - No such command: unknown_command
+2024-10-20 03:36:50,113 - app - INFO - Logging configured.
+2024-10-20 03:36:50,113 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,113 - root - INFO - Registered command: add
+2024-10-20 03:36:50,113 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,113 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,113 - root - INFO - Registered command: history
+2024-10-20 03:36:50,113 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,114 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,114 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,114 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,114 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:36:50,116 - app - INFO - Logging configured.
+2024-10-20 03:36:50,116 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,116 - root - INFO - Registered command: add
+2024-10-20 03:36:50,116 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,116 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,116 - root - INFO - Registered command: history
+2024-10-20 03:36:50,116 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,116 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,116 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,117 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,117 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:36:50,118 - app - INFO - Logging configured.
+2024-10-20 03:36:50,118 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,119 - root - INFO - Registered command: add
+2024-10-20 03:36:50,119 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,119 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,119 - root - INFO - Registered command: history
+2024-10-20 03:36:50,119 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,119 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,119 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,120 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,120 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:36:50,122 - app - INFO - Logging configured.
+2024-10-20 03:36:50,123 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,123 - root - INFO - Registered command: add
+2024-10-20 03:36:50,123 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,123 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,123 - root - INFO - Registered command: history
+2024-10-20 03:36:50,123 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,123 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,123 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,123 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,123 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:36:50,125 - app - INFO - Logging configured.
+2024-10-20 03:36:50,126 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,126 - root - INFO - Registered command: add
+2024-10-20 03:36:50,126 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,126 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,126 - root - INFO - Registered command: history
+2024-10-20 03:36:50,126 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,126 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,126 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,126 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,127 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,130 - app - INFO - Logging configured.
+2024-10-20 03:36:50,130 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,131 - root - INFO - Registered command: add
+2024-10-20 03:36:50,131 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,131 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,131 - root - INFO - Registered command: history
+2024-10-20 03:36:50,131 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,132 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,132 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,132 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,132 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:36:50,133 - app - INFO - Logging configured.
+2024-10-20 03:36:50,133 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,134 - root - INFO - Registered command: add
+2024-10-20 03:36:50,134 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,134 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,134 - root - INFO - Registered command: history
+2024-10-20 03:36:50,134 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,134 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,134 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,135 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,135 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:36:50,136 - app - INFO - Logging configured.
+2024-10-20 03:36:50,136 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,137 - root - INFO - Registered command: add
+2024-10-20 03:36:50,137 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,137 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,137 - root - INFO - Registered command: history
+2024-10-20 03:36:50,137 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,137 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,137 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,137 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,137 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:36:50,139 - app - INFO - Logging configured.
+2024-10-20 03:36:50,139 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,140 - root - INFO - Registered command: add
+2024-10-20 03:36:50,140 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,140 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,140 - root - INFO - Registered command: history
+2024-10-20 03:36:50,140 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,140 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,140 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,141 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,141 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:36:50,142 - app - INFO - Logging configured.
+2024-10-20 03:36:50,142 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,143 - root - INFO - Registered command: add
+2024-10-20 03:36:50,143 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,143 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,143 - root - INFO - Registered command: history
+2024-10-20 03:36:50,143 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,143 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,143 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,143 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,144 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:36:50,145 - app - INFO - Logging configured.
+2024-10-20 03:36:50,145 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,146 - root - INFO - Registered command: add
+2024-10-20 03:36:50,146 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,146 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,147 - root - INFO - Registered command: history
+2024-10-20 03:36:50,147 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,147 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,147 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,147 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,147 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:36:50,147 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:36:50,147 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:36:50,147 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:36:50,148 - app - INFO - Logging configured.
+2024-10-20 03:36:50,149 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,149 - app - INFO - Logging configured.
+2024-10-20 03:36:50,149 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,150 - root - INFO - Registered command: add
+2024-10-20 03:36:50,151 - root - INFO - Registered command: divide
+2024-10-20 03:36:50,151 - root - INFO - Registered command: exit
+2024-10-20 03:36:50,151 - root - INFO - Registered command: history
+2024-10-20 03:36:50,151 - root - INFO - Registered command: menu
+2024-10-20 03:36:50,151 - root - INFO - Registered command: multiply
+2024-10-20 03:36:50,151 - root - INFO - Registered command: subtract
+2024-10-20 03:36:50,151 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:36:50,151 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:36:50,151 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:36:50,151 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:36:50,151 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:36:50,151 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 03:36:50,153 - app - INFO - Logging configured.
+2024-10-20 03:36:50,153 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,153 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,154 - app - INFO - Logging configured.
+2024-10-20 03:36:50,154 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,155 - app - INFO - Logging configured.
+2024-10-20 03:36:50,155 - root - INFO - Environment variables loaded.
+2024-10-20 03:36:50,158 - app - INFO - Logging configured.
+2024-10-20 03:36:50,183 - app - INFO - Logging configured.
+2024-10-20 03:36:50,183 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,138 - root - INFO - Logging configured.
+2024-10-20 03:39:30,139 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,139 - root - INFO - Registered command: add
+2024-10-20 03:39:30,140 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,140 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,141 - root - INFO - Registered command: history
+2024-10-20 03:39:30,141 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,141 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,141 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,141 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,144 - root - INFO - Logging configured.
+2024-10-20 03:39:30,144 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,145 - root - INFO - Registered command: add
+2024-10-20 03:39:30,145 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,145 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,145 - root - INFO - Registered command: history
+2024-10-20 03:39:30,145 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,145 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,145 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,145 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,145 - root - ERROR - No such command: unknown_command
+2024-10-20 03:39:30,147 - root - INFO - Logging configured.
+2024-10-20 03:39:30,147 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,147 - root - INFO - Registered command: add
+2024-10-20 03:39:30,147 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,147 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,147 - root - INFO - Registered command: history
+2024-10-20 03:39:30,147 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,147 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,147 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,147 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,147 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 03:39:30,149 - root - INFO - Logging configured.
+2024-10-20 03:39:30,150 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,150 - root - INFO - Registered command: add
+2024-10-20 03:39:30,150 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,150 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,150 - root - INFO - Registered command: history
+2024-10-20 03:39:30,150 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,150 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,150 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,150 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,150 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 03:39:30,152 - root - INFO - Logging configured.
+2024-10-20 03:39:30,152 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,152 - root - INFO - Registered command: add
+2024-10-20 03:39:30,153 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,153 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,153 - root - INFO - Registered command: history
+2024-10-20 03:39:30,153 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,153 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,153 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,153 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,153 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 03:39:30,155 - root - INFO - Logging configured.
+2024-10-20 03:39:30,155 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,155 - root - INFO - Registered command: add
+2024-10-20 03:39:30,155 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,155 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,155 - root - INFO - Registered command: history
+2024-10-20 03:39:30,155 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,155 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,155 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,156 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,156 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 03:39:30,157 - root - INFO - Logging configured.
+2024-10-20 03:39:30,157 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,157 - root - INFO - Registered command: add
+2024-10-20 03:39:30,157 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,158 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,158 - root - INFO - Registered command: history
+2024-10-20 03:39:30,158 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,158 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,158 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,158 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,158 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,161 - root - INFO - Logging configured.
+2024-10-20 03:39:30,161 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,161 - root - INFO - Registered command: add
+2024-10-20 03:39:30,161 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,162 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,162 - root - INFO - Registered command: history
+2024-10-20 03:39:30,162 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,162 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,162 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,162 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,162 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:39:30,163 - root - INFO - Logging configured.
+2024-10-20 03:39:30,163 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,164 - root - INFO - Registered command: add
+2024-10-20 03:39:30,164 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,164 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,164 - root - INFO - Registered command: history
+2024-10-20 03:39:30,164 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,164 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,164 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,164 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,164 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:39:30,165 - root - INFO - Logging configured.
+2024-10-20 03:39:30,165 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,166 - root - INFO - Registered command: add
+2024-10-20 03:39:30,166 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,166 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,166 - root - INFO - Registered command: history
+2024-10-20 03:39:30,166 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,166 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,166 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,166 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,166 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 03:39:30,167 - root - INFO - Logging configured.
+2024-10-20 03:39:30,168 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,168 - root - INFO - Registered command: add
+2024-10-20 03:39:30,168 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,168 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,168 - root - INFO - Registered command: history
+2024-10-20 03:39:30,168 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,168 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,169 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,169 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,169 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 03:39:30,170 - root - INFO - Logging configured.
+2024-10-20 03:39:30,170 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,171 - root - INFO - Registered command: add
+2024-10-20 03:39:30,171 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,171 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,171 - root - INFO - Registered command: history
+2024-10-20 03:39:30,171 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,171 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,171 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,171 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,171 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 03:39:30,172 - root - INFO - Logging configured.
+2024-10-20 03:39:30,172 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,173 - root - INFO - Registered command: add
+2024-10-20 03:39:30,173 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,173 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,173 - root - INFO - Registered command: history
+2024-10-20 03:39:30,173 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,173 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,173 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,173 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,173 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 03:39:30,173 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 03:39:30,173 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 03:39:30,173 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 03:39:30,174 - root - INFO - Logging configured.
+2024-10-20 03:39:30,175 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,175 - root - INFO - Logging configured.
+2024-10-20 03:39:30,175 - root - INFO - Environment variables loaded.
+2024-10-20 03:39:30,176 - root - INFO - Registered command: add
+2024-10-20 03:39:30,176 - root - INFO - Registered command: divide
+2024-10-20 03:39:30,176 - root - INFO - Registered command: exit
+2024-10-20 03:39:30,176 - root - INFO - Registered command: history
+2024-10-20 03:39:30,176 - root - INFO - Registered command: menu
+2024-10-20 03:39:30,176 - root - INFO - Registered command: multiply
+2024-10-20 03:39:30,176 - root - INFO - Registered command: subtract
+2024-10-20 03:39:30,176 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 03:39:30,176 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 03:39:30,177 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 03:39:30,177 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 03:39:30,177 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 03:39:30,177 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 12:40:30,165 - root - INFO - Logging configured.
+2024-10-20 12:40:30,166 - root - WARNING - this is a test
+2024-10-20 12:40:30,169 - root - INFO - Logging configured.
+2024-10-20 12:40:30,170 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,170 - root - INFO - Registered command: add
+2024-10-20 12:40:30,170 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,171 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,171 - root - INFO - Registered command: history
+2024-10-20 12:40:30,172 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,172 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,172 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,172 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,174 - root - INFO - Logging configured.
+2024-10-20 12:40:30,174 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,175 - root - INFO - Registered command: add
+2024-10-20 12:40:30,175 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,175 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,175 - root - INFO - Registered command: history
+2024-10-20 12:40:30,175 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,175 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,175 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,175 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,175 - root - ERROR - No such command: unknown_command
+2024-10-20 12:40:30,177 - root - INFO - Logging configured.
+2024-10-20 12:40:30,177 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,177 - root - INFO - Registered command: add
+2024-10-20 12:40:30,178 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,178 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,178 - root - INFO - Registered command: history
+2024-10-20 12:40:30,178 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,178 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,178 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,178 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,178 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 12:40:30,180 - root - INFO - Logging configured.
+2024-10-20 12:40:30,180 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,180 - root - INFO - Registered command: add
+2024-10-20 12:40:30,180 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,180 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,180 - root - INFO - Registered command: history
+2024-10-20 12:40:30,180 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,180 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,180 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,180 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,180 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 12:40:30,182 - root - INFO - Logging configured.
+2024-10-20 12:40:30,182 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,182 - root - INFO - Registered command: add
+2024-10-20 12:40:30,182 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,182 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,182 - root - INFO - Registered command: history
+2024-10-20 12:40:30,182 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,182 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,182 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,183 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,183 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 12:40:30,185 - root - INFO - Logging configured.
+2024-10-20 12:40:30,185 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,185 - root - INFO - Registered command: add
+2024-10-20 12:40:30,185 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,185 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,185 - root - INFO - Registered command: history
+2024-10-20 12:40:30,185 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,185 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,185 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,185 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,185 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 12:40:30,187 - root - INFO - Logging configured.
+2024-10-20 12:40:30,187 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,187 - root - INFO - Registered command: add
+2024-10-20 12:40:30,187 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,187 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,187 - root - INFO - Registered command: history
+2024-10-20 12:40:30,187 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,187 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,187 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,188 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,188 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,191 - root - INFO - Logging configured.
+2024-10-20 12:40:30,191 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,192 - root - INFO - Registered command: add
+2024-10-20 12:40:30,192 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,192 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,192 - root - INFO - Registered command: history
+2024-10-20 12:40:30,192 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,192 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,192 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,192 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,192 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 12:40:30,193 - root - INFO - Logging configured.
+2024-10-20 12:40:30,193 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,194 - root - INFO - Registered command: add
+2024-10-20 12:40:30,194 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,194 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,194 - root - INFO - Registered command: history
+2024-10-20 12:40:30,194 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,194 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,194 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,194 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,194 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 12:40:30,195 - root - INFO - Logging configured.
+2024-10-20 12:40:30,195 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,196 - root - INFO - Registered command: add
+2024-10-20 12:40:30,196 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,196 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,196 - root - INFO - Registered command: history
+2024-10-20 12:40:30,196 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,197 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,197 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,197 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,198 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 12:40:30,198 - root - INFO - Logging configured.
+2024-10-20 12:40:30,199 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,199 - root - INFO - Registered command: add
+2024-10-20 12:40:30,199 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,199 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,199 - root - INFO - Registered command: history
+2024-10-20 12:40:30,199 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,200 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,200 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,200 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,200 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 12:40:30,201 - root - INFO - Logging configured.
+2024-10-20 12:40:30,201 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,201 - root - INFO - Registered command: add
+2024-10-20 12:40:30,201 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,201 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,201 - root - INFO - Registered command: history
+2024-10-20 12:40:30,202 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,202 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,202 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,202 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,202 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 12:40:30,203 - root - INFO - Logging configured.
+2024-10-20 12:40:30,203 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,204 - root - INFO - Registered command: add
+2024-10-20 12:40:30,204 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,204 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,204 - root - INFO - Registered command: history
+2024-10-20 12:40:30,204 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,204 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,204 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,204 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,204 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 12:40:30,204 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 12:40:30,204 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 12:40:30,205 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 12:40:30,205 - root - INFO - Logging configured.
+2024-10-20 12:40:30,205 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,206 - root - INFO - Logging configured.
+2024-10-20 12:40:30,206 - root - INFO - Environment variables loaded.
+2024-10-20 12:40:30,207 - root - INFO - Registered command: add
+2024-10-20 12:40:30,207 - root - INFO - Registered command: divide
+2024-10-20 12:40:30,207 - root - INFO - Registered command: exit
+2024-10-20 12:40:30,207 - root - INFO - Registered command: history
+2024-10-20 12:40:30,207 - root - INFO - Registered command: menu
+2024-10-20 12:40:30,207 - root - INFO - Registered command: multiply
+2024-10-20 12:40:30,207 - root - INFO - Registered command: subtract
+2024-10-20 12:40:30,207 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:40:30,207 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 12:40:30,207 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 12:40:30,207 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 12:40:30,207 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 12:40:30,207 - root - INFO - Executed command: history with args: []. Result: None
+2024-10-20 12:41:01,462 - root - INFO - Logging configured.
+2024-10-20 12:41:01,462 - root - WARNING - this is a test
+2024-10-20 12:41:01,467 - root - INFO - Logging configured.
+2024-10-20 12:41:01,467 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,467 - root - INFO - Registered command: add
+2024-10-20 12:41:01,468 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,468 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,468 - root - INFO - Registered command: history
+2024-10-20 12:41:01,468 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,469 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,469 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,469 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,471 - root - INFO - Logging configured.
+2024-10-20 12:41:01,472 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,472 - root - INFO - Registered command: add
+2024-10-20 12:41:01,472 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,472 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,472 - root - INFO - Registered command: history
+2024-10-20 12:41:01,472 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,472 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,472 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,473 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,473 - root - ERROR - No such command: unknown_command
+2024-10-20 12:41:01,475 - root - INFO - Logging configured.
+2024-10-20 12:41:01,475 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,475 - root - INFO - Registered command: add
+2024-10-20 12:41:01,475 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,475 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,475 - root - INFO - Registered command: history
+2024-10-20 12:41:01,475 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,476 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,476 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,476 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,476 - root - INFO - Executed command: add with args: ['5', '3']. Result: 8
+2024-10-20 12:41:01,478 - root - INFO - Logging configured.
+2024-10-20 12:41:01,479 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,479 - root - INFO - Registered command: add
+2024-10-20 12:41:01,479 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,479 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,479 - root - INFO - Registered command: history
+2024-10-20 12:41:01,479 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,479 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,479 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,479 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,479 - root - INFO - Executed command: subtract with args: ['10', '4']. Result: 6
+2024-10-20 12:41:01,481 - root - INFO - Logging configured.
+2024-10-20 12:41:01,482 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,482 - root - INFO - Registered command: add
+2024-10-20 12:41:01,482 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,482 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,482 - root - INFO - Registered command: history
+2024-10-20 12:41:01,482 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,482 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,482 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,483 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,483 - root - INFO - Executed command: multiply with args: ['6', '7']. Result: 42
+2024-10-20 12:41:01,485 - root - INFO - Logging configured.
+2024-10-20 12:41:01,485 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,485 - root - INFO - Registered command: add
+2024-10-20 12:41:01,485 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,485 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,485 - root - INFO - Registered command: history
+2024-10-20 12:41:01,485 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,485 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,485 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,486 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,486 - root - INFO - Executed command: divide with args: ['15', '3']. Result: 5
+2024-10-20 12:41:01,488 - root - INFO - Logging configured.
+2024-10-20 12:41:01,488 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,488 - root - INFO - Registered command: add
+2024-10-20 12:41:01,488 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,489 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,489 - root - INFO - Registered command: history
+2024-10-20 12:41:01,489 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,489 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,489 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,489 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,489 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,495 - root - INFO - Logging configured.
+2024-10-20 12:41:01,495 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,496 - root - INFO - Registered command: add
+2024-10-20 12:41:01,496 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,496 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,496 - root - INFO - Registered command: history
+2024-10-20 12:41:01,496 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,496 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,496 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,497 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,497 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 12:41:01,498 - root - INFO - Logging configured.
+2024-10-20 12:41:01,498 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,499 - root - INFO - Registered command: add
+2024-10-20 12:41:01,499 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,499 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,500 - root - INFO - Registered command: history
+2024-10-20 12:41:01,500 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,500 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,500 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,500 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,500 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 12:41:01,501 - root - INFO - Logging configured.
+2024-10-20 12:41:01,502 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,503 - root - INFO - Registered command: add
+2024-10-20 12:41:01,503 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,503 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,503 - root - INFO - Registered command: history
+2024-10-20 12:41:01,503 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,503 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,503 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,503 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,503 - root - INFO - Executed command: multiply with args: ['2', '3']. Result: 6
+2024-10-20 12:41:01,505 - root - INFO - Logging configured.
+2024-10-20 12:41:01,505 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,506 - root - INFO - Registered command: add
+2024-10-20 12:41:01,506 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,507 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,507 - root - INFO - Registered command: history
+2024-10-20 12:41:01,507 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,507 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,507 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,507 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,507 - root - INFO - Executed command: divide with args: ['6', '2']. Result: 3
+2024-10-20 12:41:01,508 - root - INFO - Logging configured.
+2024-10-20 12:41:01,509 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,510 - root - INFO - Registered command: add
+2024-10-20 12:41:01,510 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,510 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,510 - root - INFO - Registered command: history
+2024-10-20 12:41:01,510 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,510 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,510 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,510 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,510 - root - INFO - Executed command: divide with args: ['5', '0']. Result: Cannot divide by zero
+2024-10-20 12:41:01,512 - root - INFO - Logging configured.
+2024-10-20 12:41:01,512 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,513 - root - INFO - Registered command: add
+2024-10-20 12:41:01,513 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,513 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,513 - root - INFO - Registered command: history
+2024-10-20 12:41:01,513 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,513 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,513 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,514 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,514 - root - INFO - Executed command: add with args: ['1', '1']. Result: 2
+2024-10-20 12:41:01,514 - root - INFO - Executed command: subtract with args: ['5', '3']. Result: 2
+2024-10-20 12:41:01,514 - root - INFO - Executed command: multiply with args: ['2', '4']. Result: 8
+2024-10-20 12:41:01,514 - root - INFO - Executed command: divide with args: ['8', '2']. Result: 4
+2024-10-20 12:41:01,516 - root - INFO - Logging configured.
+2024-10-20 12:41:01,516 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,517 - root - INFO - Logging configured.
+2024-10-20 12:41:01,517 - root - INFO - Environment variables loaded.
+2024-10-20 12:41:01,518 - root - INFO - Registered command: add
+2024-10-20 12:41:01,519 - root - INFO - Registered command: divide
+2024-10-20 12:41:01,519 - root - INFO - Registered command: exit
+2024-10-20 12:41:01,519 - root - INFO - Registered command: history
+2024-10-20 12:41:01,519 - root - INFO - Registered command: menu
+2024-10-20 12:41:01,519 - root - INFO - Registered command: multiply
+2024-10-20 12:41:01,519 - root - INFO - Registered command: subtract
+2024-10-20 12:41:01,519 - root - INFO - Executed command: menu with args: []. Result: None
+2024-10-20 12:41:01,519 - root - INFO - Executed command: add with args: ['2', '3']. Result: 5
+2024-10-20 12:41:01,519 - root - INFO - Executed command: subtract with args: ['5', '2']. Result: 3
+2024-10-20 12:41:01,519 - root - INFO - Executed command: multiply with args: ['3', '4']. Result: 12
+2024-10-20 12:41:01,519 - root - INFO - Executed command: divide with args: ['10', '2']. Result: 5
+2024-10-20 12:41:01,520 - root - INFO - Executed command: history with args: []. Result: None
